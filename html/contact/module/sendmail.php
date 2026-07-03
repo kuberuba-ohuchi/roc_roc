@@ -1,0 +1,1 @@
+<?php/*メール送信プログラム第1引数：送信文字コード第2引数：送信者第3引数：宛先第4引数：件名第5引数：本文戻り値：送信成功：1、送信失敗：0*/function sendmail($chartype,$from,$to,$sub,$body) {	//送信文字コード宣言	ini_set("mbstring.internal_encoding",$chartype); 	$from  = "From: $from";	//UTF-8文字化け対応	mb_language("uni");	//メール送信	$rst = mb_send_mail($to, $sub, $body, $from,"-t");	return($rst);}?>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<!--  created with free sitemap generation system www.sitemapxml.jp  --> 
+<url>
+  <loc>https://roots-c.com/</loc>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>https://roots-c.com/index.html</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://roots-c.com/company/</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://roots-c.com/works/</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://roots-c.com/recruit/</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://roots-c.com/contact/</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://roots-c.com/privacy/</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://roots-c.com/recruit/privacy.pdf</loc>
+  <priority>0.7</priority>
+</url>
+
+</urlset>

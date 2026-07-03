@@ -1,0 +1,1 @@
+<?php/*不可視フィールドタグ生成第1引数：不可視フィールドを生成する項目名戻り値：不可視フィールドタグ*/function hidden_generated ($items) {	$tag = "";	while(list($key, $val) = each($items)) {		$tag .= "<input type=\"hidden\" name=\"".$key."\" value=\"".$val."\">\n";	}	return($tag);}?>
